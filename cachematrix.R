@@ -7,7 +7,7 @@ makeCacheMatrix <- function(x = matrix()) {
 
 }
 
-
+r <- c(1,2)
 ## Write a short comment describing this function
 
 cacheSolve <- function(x, ...) {
